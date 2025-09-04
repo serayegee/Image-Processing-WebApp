@@ -1,0 +1,5 @@
+train: datasets/metals/images/train
+val: datasets/metals/images/val
+
+nc: 1
+names: ["rectangle"]
